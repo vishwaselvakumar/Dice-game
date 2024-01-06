@@ -1,3 +1,5 @@
+// vishwa is the 
+
 var randomNumber1 = Math.floor(Math.random()*6+1); //1-6
 var randomDiceImages = "dice"+randomNumber1 +".png"; // Image Allocations
 var randomImageSource = "Images/"+ randomDiceImages; //Image.Png
